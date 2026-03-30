@@ -1,21 +1,3 @@
-<div align="center">
-
-# مرحباً، أنا ars-deve1! 👋✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+🚀;Always+learning+new+things+💡;Open+to+collaboration+🤝" alt="Typing SVG" />
-
----
-
-### 🚀 About Me
-
-🔭 I'm currently working on **awesome projects**  
-🌱 I'm currently learning **new technologies**  
-👯 I'm looking to collaborate on **open-source projects**  
-🤔 I'm looking for help with **challenging problems**  
-💬 Ask me about **anything tech-related**  
-📫 How to reach me: **your@email.com**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: **I love turning coffee into code ☕**
 
 ---
 
