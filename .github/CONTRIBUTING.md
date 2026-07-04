@@ -16,6 +16,13 @@ Thank you for your interest! Here's how to contribute:
 4. Test locally
 5. Submit a Pull Request
 
+## Pull Request Process
+
+1. Update README.md with any new features
+2. Add appropriate labels to your PR
+3. Ensure all changes are properly tested
+4. Link any related issues
+
 ---
 
 Let's build something great together! 🚀
